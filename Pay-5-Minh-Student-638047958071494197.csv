@@ -1,0 +1,2 @@
+employeeId,fName,lName,hourRate,taxThreshold,hour,grossPay,tax,super,netPay
+5,Minh,Student,25,Y,20,500,33.092899999999986,52.5,466.9071
